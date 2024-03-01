@@ -48,6 +48,6 @@ This project is a Nike online store developed with Tailwind CSS, TypeScript and 
 
 Contributions are welcome! If you want to improve this project, feel free to submit a pull request
 
-![Home Page](/src/assets/homepage.png)
+![Home Page](/src/assets/homePage.png)
 ![SpecialPage](/src/assets/specialPage.png)
 ![FotterPage](/src/assets/footerPage.png)
